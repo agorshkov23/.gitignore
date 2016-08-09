@@ -1,0 +1,2 @@
+# .gitignore
+Store my .gitignore
